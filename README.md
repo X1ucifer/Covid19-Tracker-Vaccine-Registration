@@ -4,7 +4,7 @@
 
 <img src="# Zircon - A user-friendly Tile Engine & Text GUI [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Do%20you%20plan%20to%20make%20a%20roguelike%3F%20Look%20no%20further.%20Zircon%20is%20the%20right%20tool%20for%20the%20job.&url=https://github.com/Hexworks/zircon&hashtags=games,roguelikes)
 
-<img src="https://github.com/X1ucifer/Covid19-Tracker-Vaccine-Registration/blob/master/assets/vid.gif"  alt="Full Example" width='50'/>
+<img src="https://github.com/X1ucifer/Covid19-Tracker-Vaccine-Registration/blob/master/assets/vid.gif"  alt="Full Example" width='10'/>
 
 Need info? Check the [Docs][zircon-docs]
  | or [Create an issue](https://github.com/Hexworks/zircon/issues/new)
