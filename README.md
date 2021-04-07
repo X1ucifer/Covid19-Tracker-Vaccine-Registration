@@ -27,7 +27,7 @@ We got so many problems in the following days, especially CoronaVirus pandemic,q
 
 ### Use Case
 
-<img src="https://github.com/X1ucifer/Covid19-Tracker-Vaccine-Registration/blob/master/assets/class-diagram.png"  alt="Full Example" width='300'/>
+<img src="https://github.com/X1ucifer/Covid19-Tracker-Vaccine-Registration/blob/master/assets/class-diagram.png"  alt="Full Example" width='600'/>
 
 The user can access Global Stats,Country Stats and Vaccine Registration without need any app Authentications. The Covid-19 data’s GET via API and the user can Register Vaccine with the help of  https://vaccinate.tn.gov/ .
 
