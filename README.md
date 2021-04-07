@@ -24,3 +24,10 @@
 ### Problem Statement
 
 We got so many problems in the following days, especially CoronaVirus pandemic,quarantine a lot. Our Govt established many protocols and rules against Covid-19 there one is put vaccine to prevent coronavirus. This application aims to help the user to book vaccines online and track the current situations of corona in the world with much comfort through simple steps. The need for developing this app was the rapid technological growth of almost everything around us. The user wants all the tasks to be done in an easy and comfortable manner. In such an era, there was a serious need to build up a app for the users convenience.
+
+### Use Case
+
+<img src="https://github.com/X1ucifer/Covid19-Tracker-Vaccine-Registration/blob/master/assets/class-diagram.png"  alt="Full Example" width='300'/>
+
+The user can access Global Stats,Country Stats and Vaccine Registration without need any app Authentications. The Covid-19 data’s GET via API and the user can Register Vaccine with the help of  https://vaccinate.tn.gov/ .
+
